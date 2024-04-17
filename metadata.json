@@ -1,0 +1,15 @@
+{
+  "name": "Autistic Donkey",
+  "symbol": "AUTISTIC",
+  "description": "An Autistic Donkey.",
+  "image": "https://raw.githubusercontent.com/wiperdev/token-metadata/main/logo.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/wiperdev/token-metadata/main/logo.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
